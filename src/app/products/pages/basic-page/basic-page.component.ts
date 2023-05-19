@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-basic-page',
+  selector: 'products-basic-page',
   templateUrl: './basic-page.component.html',
   styles: [
   ]
